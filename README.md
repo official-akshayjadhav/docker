@@ -10,4 +10,4 @@ Sr.No. | Title | Link | Status
 ### kubernetes resources
 Sr.No. | Title | Link | Status
 ------ | ----- | ---- | ----------
-Kubernetes in 5 mins | [click here](https://i.ytimg.com/an_webp/PH-2FfFD2PU/mqdefault_6s.webp?du=3000&sqp=CI6DoPIF&rs=AOn4CLC6Aqe0jPhfZHd8d9HdH3LwL0ovvw) | :o:
+1 | Kubernetes in 5 mins | [click here](https://i.ytimg.com/an_webp/PH-2FfFD2PU/mqdefault_6s.webp?du=3000&sqp=CI6DoPIF&rs=AOn4CLC6Aqe0jPhfZHd8d9HdH3LwL0ovvw) | :o:
